@@ -57,3 +57,21 @@ This dataset contain three types of images
   </tbody>
 </table>
     
+## Examples
+Low Res Unedited
+![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/Low%20Res%20Unedited.jpg)
+
+Low Res Augmented
+![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/Low%20Res%20Augmented.jpg)
+
+High Res Unedited
+![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/High%20Res%20Unedited.jpg)
+
+High Res Augmented
+![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/High%20Res%20Augmented.jpg)
+
+Word Unedited
+![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/Word%20Unedited.jpg)
+
+Word Augmented
+![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/word%20Augmented.jpg)
