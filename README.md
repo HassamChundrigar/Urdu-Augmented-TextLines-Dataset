@@ -75,3 +75,8 @@ Word Unedited
 
 Word Augmented
 ![alt text](https://github.com/HassamChundrigar/Urdu-Augmented-TextLines-Dataset/blob/master/Examples/word%20Augmented.jpg)
+
+
+## Project Url:
+Trained model With Minimal Code is Deployed here https://github.com/HassamChundrigar/Urdu-Ocr
+
